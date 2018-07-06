@@ -1,0 +1,15 @@
+  * [Adding controls](https://docs.google.com/presentation/d/1W8F8W2Z2OExRgOhqkdYtpIaenhohBva9wiJDwSVNhdU/edit?usp=sharing)
+  * MOBILE PHONES: 
+    * Touch interaction
+      - [Single Touch](http://alpha.editor.p5js.org/projects/H1a1YWOgl)
+      - [Multi Touch](http://alpha.editor.p5js.org/projects/HkDY43yxl)
+    * Events
+      - [Device Moved](http://alpha.editor.p5js.org/projects/BysXo-dgx)
+      - [Device Turned](http://alpha.editor.p5js.org/projects/ryMwSnyxx)
+      - [Device Shaken 1](http://alpha.editor.p5js.org/projects/rkmqU2Jee)
+      - [Device Shaken 2](http://alpha.editor.p5js.org/projects/rJWwujwxg)
+    * Sensors
+      - [Rotation (Gravity)](http://alpha.editor.p5js.org/projects/Hylv2b_xl)
+      - [Acceleration (3D)](http://alpha.editor.p5js.org/projects/BJxoCbdxx)
+  * Using the video library
+    - (maybe): using other libraries - like the P5.PLAY library?
